@@ -10,6 +10,7 @@ public class main {
         for (Employee x : emps){
             x.getDetails();
             System.out.println(x.calculatePay());
+            System.out.println("saasdasd");
         }
     }
 }
