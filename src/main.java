@@ -11,6 +11,7 @@ public class main {
             x.getDetails();
             System.out.println(x.calculatePay());
             System.out.println("saasdasd");
+            System.out.println(1);
         }
     }
 }
